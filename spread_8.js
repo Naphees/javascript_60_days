@@ -11,4 +11,5 @@ console.log(...arr2);
 
 // add item in existing elements
  let arr3 = [...arr2, "lovely"];
+
  console.log(arr3);
